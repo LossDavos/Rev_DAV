@@ -1,1 +1,2 @@
 PRIDAV, PCA, Skryte Mark Modely
+PRIDAV, Neuronove Siete, Malicherne
