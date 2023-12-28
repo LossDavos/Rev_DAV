@@ -1,2 +1,3 @@
 PRIDAV, PCA, Skryte Mark Modely
 PRIDAV, Neuronove Siete, Malicherne
+Analyza, Rolleho veta, dokaz
