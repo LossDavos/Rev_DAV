@@ -2,4 +2,4 @@ PRIDAV, PCA, Skryte Mark Modely
 PRIDAV, Neuronove Siete, Malicherne
 Analyza, Rolleho veta, dokaz
 Analyza, Pigenhole Principle, dokaz
-
+Diskretna Matematika, Vyrokova logika, 01
