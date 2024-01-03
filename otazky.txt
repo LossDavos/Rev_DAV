@@ -1,5 +1,45 @@
-PRIDAV; PCA; Skryte Mark Modely
-PRIDAV; Neuronove Siete; Malicherne
-Analyza; Rolleho veta; dokaz
-Analyza; Pigenhole Principle; dokaz
-Diskretna Matematika; Vyrokova logika; 01
+Algebra; Grupy; kriteria, asociativita, neutralny, inverz, komutativna, aditivna
+Algebra; Okruhy, telesa, polia; komut., asoci., distrib., 
+Algebra; Vektorove priestory, podpriestory; kriteria(asoc., distrib., inverz.), x,y in D, a,b in R then ax+by in D
+Algebra; Linearna zavislost; generatory, bazy, dimenzie, jeden kombin. ostatnych, clenov pred nim
+Algebra; Linearne zobrazenia; kriteria (podpriestory, vzory), zakladna veta
+Algebra; Euklidovsky vektorovy priestor; kriteria, vektory, ortogonalnost (a projekcia)
+Algebra; Izomorfizmy a homomorfizmy; no sak vies...
+
+MVO; Gradient, kladna definitnost, Hessian;
+MVO; Bodova minimaliziacia; bisekcia, di(tri)chotomicka, fibonacci, zlaty rez
+MVO; Kvadraticka interpolacia; Vandermondova matica, kvadr.splajn (stredovy, minimovy)
+MVO; Gradientna metoda; konstantny/optimalny krok, Cauchyho metoda, Kantorovicova nerov., priblizne opt. krok
+MVO; Typy konvergencii; linearna, superlinearna, kvadraticka
+MVO; Priame metody; pattern search - Powellova, Nelder-Mead (eval., refl., exp., kontr., zmen.)
+MVO; Metody vyssieho radu; Newtonova metoda
+MVO; Interpolacia; Newton. metoda(interpol. Tayl.polyn), CSR, SR1, Fletcher-Reeves, G-zdruzene smery
+
+TEA; Dijkstra; Floyd-warshall, najkratsia cesta v grafe, fronta, Fib. halda 
+TEA; DFS++; stromy, hlbka, artikulacie, dopredne/spatne hrany, mosty
+TEA; DAG;  silno suvisle komponenty, kostra $, Kruskalov alg.
+TEA; Intervalove stromy; zmen/zisti, Segment tree
+TEA; Vyhladavanie v texte; Lex. strom, Rolling hash, KMP a konecne stavove automaty, Aho-Corasik
+TEA; Modularna aritmetika; Mala Fermatova, Bezoutova identita, Cinska zvyskova, Euklid.alg., 
+TEA; Knapsack, obchodny cest., permutaice; same problemy 
+TEA; Triedy zlozitosti; polynom., nepolynom., NP hard, transoformacia, SAT,Cook-Levinova
+TEA; Lowest Common Ancestor; DFS,  RMQ
+TEA; Parenie; bipartitne, zlepsujuca cesta, maxim., Vrcholove pokrytie, toky, Ford-Fullkerson
+
+ADS; Q, Stack; priority, LIFO, Vector (nafuk. pole), bublanie, Heapsort
+ADS; Stromy; AVL, rotacia,AA, BST, (dokaz sort v O(n))
+ADS; Prefixove sucty; Count sort, STABLE sort, Radix (bin. cisla)
+ADS; Greedy/Online algoritmy; Activity select, nic nepokaz, Matroid
+ADS; Greedy problemy; Coding, Deadline, HUffman enc., Topologicke triedenie, Diff.serv
+ADS; Memoizacia, Dyn. prog.; Independ.set, travel.salesman, umenie
+
+Linearna program.; Zaklady LinProg; ucelova fcia, neohranicena/nepripustna
+Linearna program.; Formulacie a transformacie; standardny/maticovy, 3-tvary, slack, volne na nezaporne
+Linearna program.; Transformacie uloh; rastuca, regularna (premennych), epigraf., bod. max., sum abs.hodnot
+Linearna program.; Konvexna analyza; eps.okolie, vnutorny bod, otvorena/uzavreta, uzaver, kompakt.
+Linearna program.; Konvexne, afinne mnoziny; definicia, vektor.podpriestor, nezavislost, oporna, konv. kuzel, polyedricke
+Linearna program.; Konvexne, konicke, afinne kombinacie, Simplexy; Caratheodoryho veta 
+Linearna program.; Bazicke riesenia; jednoznacnost, premenne, (ne)degenerovane, zakladna veta, konvexnost
+Linearna program.; Simplexova metoda; optim.riesenie, tabulka, bazicke riesenie, zacyklenie, dvojfazova, dualna/neohranicena uloha
+Linearna program.; Separacia, Farkasova lema; oporna, ostra separacia, Farkas - dve alternativy, dosledok
+Linearna program.; Dualitta; primarna, zakl.tvar, optim.hodnotu, slaba dualita, komplementarita (ostra)
