@@ -33,13 +33,13 @@ ADS; Greedy/Online algoritmy; Activity select, nic nepokaz, Matroid
 ADS; Greedy problemy; Coding, Deadline, HUffman enc., Topologicke triedenie, Diff.serv
 ADS; Memoizacia, Dyn. prog.; Independ.set, travel.salesman, umenie
 
-Linearna program.; Zaklady LinProg; ucelova fcia, neohranicena/nepripustna
-Linearna program.; Formulacie a transformacie; standardny/maticovy, 3-tvary, slack, volne na nezaporne
-Linearna program.; Transformacie uloh; rastuca, regularna (premennych), epigraf., bod. max., sum abs.hodnot
-Linearna program.; Konvexna analyza; eps.okolie, vnutorny bod, otvorena/uzavreta, uzaver, kompakt.
-Linearna program.; Konvexne, afinne mnoziny; definicia, vektor.podpriestor, nezavislost, oporna, konv. kuzel, polyedricke
-Linearna program.; Konvexne, konicke, afinne kombinacie, Simplexy; Caratheodoryho veta 
-Linearna program.; Bazicke riesenia; jednoznacnost, premenne, (ne)degenerovane, zakladna veta, konvexnost
-Linearna program.; Simplexova metoda; optim.riesenie, tabulka, bazicke riesenie, zacyklenie, dvojfazova, dualna/neohranicena uloha
-Linearna program.; Separacia, Farkasova lema; oporna, ostra separacia, Farkas - dve alternativy, dosledok
-Linearna program.; Dualitta; primarna, zakl.tvar, optim.hodnotu, slaba dualita, komplementarita (ostra)
+Linearne programovanie; Zaklady LinProg; ucelova fcia, neohranicena/nepripustna
+Linearne programvanie; Formulacie a transformacie; standardny/maticovy, 3-tvary, slack, volne na nezaporne
+Linearne programvanie; Transformacie uloh; rastuca, regularna (premennych), epigraf., bod. max., sum abs.hodnot
+Linearne programvanie; Konvexna analyza; eps.okolie, vnutorny bod, otvorena/uzavreta, uzaver, kompakt.
+Linearne programvanie; Konvexne, afinne mnoziny; definicia, vektor.podpriestor, nezavislost, oporna, konv. kuzel, polyedricke
+Linearne programvanie; Konvexne, konicke, afinne kombinacie, Simplexy; Caratheodoryho veta 
+Linearne programvanie; Bazicke riesenia; jednoznacnost, premenne, (ne)degenerovane, zakladna veta, konvexnost
+Linearne programvanie; Simplexova metoda; optim.riesenie, tabulka, bazicke riesenie, zacyklenie, dvojfazova, dualna/neohranicena uloha
+Linearne programvanie; Separacia, Farkasova lema; oporna, ostra separacia, Farkas - dve alternativy, dosledok
+Linearne programvanie; Dualitta; primarna, zakl.tvar, optim.hodnotu, slaba dualita, komplementarita (ostra)e
